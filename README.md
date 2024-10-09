@@ -1,4 +1,4 @@
-# Hola 👋, soy Brayan Diaz C
+# Hola 👋, soy Daniela Porto
 
 Un Full Stack Developer 🧑‍💻 especializado en Ruby 💎, Python 🐍, y JavaScript 📜, con la habilidad de construir aplicaciones robustas desde la ideación hasta el despliegue en producción. Me especializo en el desarrollo de software que abarca tanto el backend como el frontend, y poseo conocimientos prácticos en arquitectura de soluciones en la nube ☁️ que complementan mi enfoque de Full Stack.
 
